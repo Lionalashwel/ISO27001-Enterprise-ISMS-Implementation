@@ -87,6 +87,19 @@
 │
 └── 04 تقرير التقييم
     └── Project Final Evaluation Report.md
+```
+
+## 👥 فريق خبراء التنفيذ (Implementation Team)
+نحن فريق من المتخصصين القادرين على تحويل المتطلبات المعقدة لمعيار ISO 27001 إلى واقع ملموس يحمي أعمالك:
+
+| الاسم (Name) | البريد الإلكتروني (Email) | GitHub Profile |
+| :--- | :--- | :--- |
+| Ali Ahmed Al-Ashwel | alashwelaliahmed@gmail.com | @Lionalashwe |
+| Abdulrahman AL-Salfy| abdulrahman.alsalfy70@gmail.com‏ | [@abdulrahmanalsalfy |
+| [Ghassan Faisal Mohammed Ali Obad ] | [ghsanbad44@gmail.com] | [WeF5] |
+| [اسم العضو 4] | [Email 4] | [@username] |
+
+🤝 **هل تبحث عن تطبيق نظام إدارة أمن المعلومات في مؤسستك؟ لا تتردد في التواصل مع أي من أعضاء الفريق.**
 
 
 
