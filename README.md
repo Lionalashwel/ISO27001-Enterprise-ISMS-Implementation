@@ -51,7 +51,7 @@
 | الاسم (Name) | البريد الإلكتروني (Email) | GitHub Profile |
 | :--- | :--- | :--- |
 | Ali Ahmed Al-Ashwel | alashwelaliahmed@gmail.com | @Lionalashwe |
-| [اسم العضو 2] | [Email 2] | [@username] |
+| [Ghassan Faisal Mohammed Ali Obad] | [ghsanbad44@gmail.com] | [WeF5] |
 | [اسم العضو 3] | [Email 3] | [@username] |
 | [اسم العضو 4] | [Email 4] | [@username] |
 
