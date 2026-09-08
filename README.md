@@ -52,7 +52,7 @@
 | :--- | :--- | :--- |
 | Ali Ahmed Al-Ashwel | alashwelaliahmed@gmail.com | @Lionalashwe |
 | Abdulrahman AL-Salfy| abdulrahman.alsalfy70@gmail.com‏ | [@abdulrahmanalsalfy |
-| [اسم العضو 3] | [Email 3] | [@username] |
+| [Ghassan Faisal Mohammed Ali Obad ] | [ghsanbad44@gmail.com] | [WeF5] |
 | [اسم العضو 4] | [Email 4] | [@username] |
 
 🤝 **هل تبحث عن تطبيق نظام إدارة أمن المعلومات في مؤسستك؟ لا تتردد في التواصل مع أي من أعضاء الفريق.**
