@@ -95,9 +95,9 @@
 | الاسم (Name) | البريد الإلكتروني (Email) | GitHub Profile |
 | :--- | :--- | :--- |
 | Ali Ahmed Al-Ashwel | alashwelaliahmed@gmail.com | @Lionalashwe |
-| Abdulrahman AL-Salfy| abdulrahman.alsalfy70@gmail.com‏ | [@abdulrahmanalsalfy |
-| [Ghassan Faisal Mohammed Ali Obad ] | [ghsanbad44@gmail.com] | [WeF5] |
-| [اسم العضو 4] | [Email 4] | [@username] |
+| Abdulrahman AL-Salfy| abdulrahman.alsalfy70@gmail.com‏ | @abdulrahmanalsalfy |
+| [Ghassan Faisal Mohammed Ali Obad ] | ghsanbad44@gmail.com | WeF5 |
+| Ammar Saeed Hatem| ammarhatemm77@gmail.com | banhatem |
 
 🤝 **هل تبحث عن تطبيق نظام إدارة أمن المعلومات في مؤسستك؟ لا تتردد في التواصل مع أي من أعضاء الفريق.**
 
